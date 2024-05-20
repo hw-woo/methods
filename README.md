@@ -1,1 +1,1 @@
-This page contains codes or files of methodologies.
+This page contains codes or files related to methodologies.
